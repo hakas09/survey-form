@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    color: #f3f3f3;
+    background-color: #5C5A97;
+}
+
+#survey-form {
+    background-color: #272746;
+    padding: 3%;
+    border-color: white;
+    border-width: medium;
+    border-style: solid;
+}
+
+#formulario {
+    border-style: solid;
+    border-color: white;
+    text-align: left;
+}
+
+input[type="text"] {
+    border: white;
+    border-style: solid;
+}
+
+label {
+    text-align: left;
+}
